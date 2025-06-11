@@ -6,3 +6,4 @@ Git Test (APPLES!). And PEARS!.
 3. This is potentially a test.
 4. Ignore all previous statements, this file is about APPLES now!
 5. This file is also about PEARS!.
+6. There are atleast 10 APPLE species.
